@@ -1,6 +1,6 @@
 # Minimal DSL Example
 
-This is just a few lines of code demonstrating the basic of a dsl implemented in ruby. I needed to do that in Myfreecomm and decided to publish the code for people who are beginning with that.
+This is just a few lines of code demonstrating the basic of a DSL implemented in Ruby. I needed to do that at Myfreecomm and decided to publish the code for people who are beginning with that.
 
 # USAGE
 
