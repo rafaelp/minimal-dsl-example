@@ -1,0 +1,20 @@
+Minimal DSL Example
+===================================
+
+This is just a few lines of code demonstrating the basic of a dsl implemented in ruby. I needed to do that in Myfreecomm and decided to publish the code for people who are beginning with that.
+
+USAGE
+------
+
+# ruby run.rb
+
+LICENSE
+--------
+
+Minimal DSL Example is released under the MIT licence.
+
+AUTHOR
+-------
+
+[Rafael Lima](http://rafael.adm.br) at [Myfreecomm](http://myfreecomm.com.br)
+
