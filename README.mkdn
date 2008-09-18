@@ -2,15 +2,15 @@
 
 This is just a few lines of code demonstrating the basic of a DSL implemented in Ruby. I needed to do that at Myfreecomm and decided to publish the code for people who are beginning with that.
 
-# USAGE
+## USAGE
 
 ruby run.rb
 
-# LICENSE
+## LICENSE
 
-Minimal DSL Example is released under the MIT licence.
+Minimal DSL Example is released under the MIT LICENSE.
 
-# AUTHOR
+## AUTHOR
 
 [Rafael Lima](http://rafael.adm.br) at [Myfreecomm](http://myfreecomm.com.br)
 
