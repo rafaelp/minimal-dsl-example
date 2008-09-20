@@ -8,9 +8,22 @@ ruby run.rb
 
 ## LICENSE
 
-Minimal DSL Example is released under the MIT LICENSE.
+Minimal DSL Example is released under the MIT License.
 
 ## AUTHOR
 
-[Rafael Lima](http://rafael.adm.br) at [Myfreecomm](http://myfreecomm.com.br)
+### **Rafael Lima**
 
+Working at [Myfreecomm](http://myfreecomm.com.br)
+
+Blog: [http://rafael.adm.br](http://rafael.adm.br)
+
+Podcast: [http://rafael.adm.br/voltandopracasa](http://rafael.adm.br/voltandopracasa)
+
+Github: [http://github.com/rafaelp](http://github.com/rafaelp)
+
+Twitter: [http://twitter.com/rafaelp](http://twitter.com/rafaelp)
+
+### Did you like?
+
+[Recommend me at Working With Rails](http://workingwithrails.com/recommendation/new/person/14248-rafael-lima)
